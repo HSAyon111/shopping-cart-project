@@ -1,0 +1,19 @@
+.bg-section {
+    background-color: #F6F5FA;
+}
+
+.product-image {
+    width: 115px;
+}
+
+.inp-custom{
+    background-color: #F6F5FA;
+    border: none;
+    width: 65px;
+    border-radius: 10px;
+    font-size: 20px;
+}
+
+.remove-item {
+    width: 25px;
+}
